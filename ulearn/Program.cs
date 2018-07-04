@@ -28,7 +28,7 @@ namespace ulearn
 				hour=-12;
 				
 			}
-			Console.WriteLine("gradien: "+hour*30);
+			Console.WriteLine("Gradien: "+hour*30);
 			
 			
 			// TODO: Implement Functionality Here
