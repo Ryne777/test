@@ -25,7 +25,7 @@ namespace ulearn
 			}
 			if (hour>12)
 			{
-				hour=-12;
+				hour=-13;
 				
 			}
 			Console.WriteLine("Gradien: "+hour*30);
