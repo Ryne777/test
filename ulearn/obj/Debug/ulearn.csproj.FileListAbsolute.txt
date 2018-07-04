@@ -1,0 +1,6 @@
+D:\project\ulearn\ulearn\bin\Debug\ulearn.exe.config
+D:\project\ulearn\ulearn\bin\Debug\ulearn.exe
+D:\project\ulearn\ulearn\bin\Debug\ulearn.pdb
+D:\project\ulearn\ulearn\obj\Debug\ulearn.csprojResolveAssemblyReference.cache
+D:\project\ulearn\ulearn\obj\Debug\ulearn.exe
+D:\project\ulearn\ulearn\obj\Debug\ulearn.pdb
